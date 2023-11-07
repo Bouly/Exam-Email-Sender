@@ -1,0 +1,13 @@
+• Enlever la bannière [EXTERNE] (Ticket refusé par le service informatique) ❌
+
+• Mail Body Editor ⌛
+
+• Option ⌛
+
+• Refactoring code ⌛
+
+• Installation du module ImportExcel ✔️
+
+• Installation du module ActiveDirectory ✔️
+
+• Rendre le script Standalone (sans Rsat tools.bat) ✔️

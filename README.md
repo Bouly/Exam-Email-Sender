@@ -1,4 +1,4 @@
-# Script-Send-Exam
+# Exam Email Sender
 Simple Powershell GUI script to send exam to your student
 
 # New UI

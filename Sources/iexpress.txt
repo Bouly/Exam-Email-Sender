@@ -1,0 +1,1 @@
+powershell.exe -sta -WindowStyle Hidden -noprofile -ExecutionPolicy Bypass -File ExamEmailSender.ps1

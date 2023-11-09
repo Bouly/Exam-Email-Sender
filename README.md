@@ -1,4 +1,4 @@
-# Script-Send-Exam
+# Exam Email Sender
 Simple Powershell GUI script to send exam to your student
 
 # New UI
@@ -8,7 +8,8 @@ Main Menu
 
 Menu pour éditer le body du mail
 
-![image](https://github.com/Bouly/Script-Send-Exam/assets/94909482/d8a7ddba-40aa-4184-ae3d-664630cf0a4b)
+![image](https://github.com/Bouly/Exam-Email-Sender/assets/94909482/b5795585-7c6c-4e0a-b4a9-ac31e472a50a)
+
 
 Menu pour installer les modules manquants pour le script
 

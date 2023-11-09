@@ -8,8 +8,7 @@ Main Menu
 
 Menu pour éditer le body du mail
 
-![image](https://github.com/Bouly/Exam-Email-Sender/assets/94909482/b5795585-7c6c-4e0a-b4a9-ac31e472a50a)
-
+![image](https://github.com/Bouly/Exam-Email-Sender/assets/94909482/ef74bc78-b356-4e50-b05c-19b182545d0b)
 
 Menu pour installer les modules manquants pour le script
 

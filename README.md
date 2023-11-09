@@ -12,7 +12,11 @@ Menu pour éditer le body du mail
 
 Menu pour installer les modules manquants pour le script
 
-![image](https://github.com/Bouly/Script-Send-Exam/assets/94909482/e4a61c86-97cc-40f2-a470-8aaa62883449)  ![image](https://github.com/Bouly/Script-Send-Exam/assets/94909482/747abc70-8936-4c04-9bfb-1278da1ee224)
+![image](https://github.com/Bouly/Script-Send-Exam/assets/94909482/e4a61c86-97cc-40f2-a470-8aaa62883449) ![image](https://github.com/Bouly/Script-Send-Exam/assets/94909482/747abc70-8936-4c04-9bfb-1278da1ee224)
+
+Menu pour les absents
+
+![image](https://github.com/Bouly/Exam-Email-Sender/assets/94909482/fc1d838e-530b-4347-940a-d656f489c62e) ![image](https://github.com/Bouly/Exam-Email-Sender/assets/94909482/1264f3d7-6399-4f1c-bf86-86e639abb63c)
 
 # Old UI
 Main Menu
@@ -26,3 +30,4 @@ Menu pour éditer le body du mail
 Menu pour installer les modules manquants pour le script
 
 ![image](https://github.com/Bouly/Script-Send-Exam/assets/94909482/7d4f5060-e3de-4c2b-a6a4-9ddc1cccb9d3)
+

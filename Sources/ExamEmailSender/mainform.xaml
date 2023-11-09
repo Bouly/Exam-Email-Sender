@@ -11,6 +11,7 @@
 	Width="525"
     MaxWidth="525"
     MinWidth="525"
+    WindowStartupLocation="CenterScreen"
 	GlowBrush="{DynamicResource AccentColorBrush}">
 
     <Window.Resources>

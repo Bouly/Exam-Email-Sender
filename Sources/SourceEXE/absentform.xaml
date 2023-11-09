@@ -25,8 +25,8 @@
                 <ResourceDictionary Source="pack://application:,,,/LoadingIndicators.WPF;component/Colors.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/LoadingIndicators.WPF;component/Styles.xaml" /> 
         <!-- Mahapps resources -->
-                <ResourceDictionary Source=".\resources\Icons.xaml" />
-                <ResourceDictionary Source=".\resources\custom.xaml" />
+                <ResourceDictionary Source="Icons.xaml" />
+                <ResourceDictionary Source="custom.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />

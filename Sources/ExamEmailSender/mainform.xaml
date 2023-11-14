@@ -49,6 +49,9 @@
             <Controls:Flyout x:Name="FlyOutContent" Position="Right" Width="200"  Theme="Accent" Grid.RowSpan="4" IsPinned="False" Opacity="0.93" >
                 <Grid>
                     <StackPanel Orientation="Vertical">
+                        <Label Content="Students File" HorizontalAlignment="left" Margin="20,0,0,0" Width="135" FontSize="18"/>
+                        <TextBox x:Name="TxtBoxStudentsFileName" HorizontalAlignment="left" Margin="20,0,0,0" Height="26" Width="129"/>
+                        <Button x:Name="BtnSaveConfig" Content="Save" HorizontalAlignment="Left" Margin="20,173,0,0" Width="75"/>
                     </StackPanel>
                 </Grid>
             </Controls:Flyout>
@@ -68,7 +71,9 @@
                         <Button x:Name="BtnLocation" Content="Location" HorizontalAlignment="Left" Margin="20,15,0,0" VerticalAlignment="Center" Width="173"  Style="{StaticResource AccentedSquareButtonStyle}"/>
                         <Label x:Name="LabelPathFileInfo" Content="Path Undefined" HorizontalAlignment="Left" Margin="50,75,0,0" VerticalAlignment="Center" Grid.ColumnSpan="2" Width="135" FontSize="14" Foreground="#FFB71111"/>
 
-                        <Button x:Name="BtnSendMail" Content="Send" HorizontalAlignment="Left" Margin="20,225,0,10" VerticalAlignment="Top" Width="75"/>
+                        <Controls:Badged x:Name="Badge" Badge="{Binding Path=BadgeValue}" Margin="20,225,0,10" VerticalAlignment="Top" HorizontalAlignment="Left" BadgeBackground="Green">
+                            <Button x:Name="BtnSendMail" Content="Send"  Width="75"/>        
+                        </Controls:Badged> 
 
                         <loadin:LoadingIndicator Margin="115,213,0,0" HorizontalAlignment="Left"  Name="ArcsStyle"  IsActive="False" Style="{DynamicResource LoadingIndicatorArcsStyle}">
                             <loadin:LoadingIndicator.RenderTransform>
